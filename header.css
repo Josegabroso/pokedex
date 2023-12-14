@@ -1,0 +1,16 @@
+header {
+    background-color: #c20001;
+    height: 100px;
+
+}
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+.header-content-descripton {
+    color: #fff;
+    font-weight: 600;
+}
